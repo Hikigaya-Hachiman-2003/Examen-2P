@@ -1,5 +1,5 @@
 # Programas en C++ de Ruano Jama Jharol
-## Informacion del autor 
+## Información del autor 
 - Apellidos y Nombre: Ruano Jama Jharol
 - Correo de contacto:  jharol.ruano.jama@utelvt.edu.ec
 - Video explicativo acerca de la introducción de la programación:
@@ -78,7 +78,7 @@ En el siguiente programa vamos a poder sumar varias cantidades de números depen
 
 		 rj_x= rj_x+1;
 		 rj_y= rj_y+ rj_b;
-4. Y por ultimo comparamos sí la cantidad de numeros ingresados es igual a la solicitada, caso contrario se repetira el proceso.
+4. Y por último comparamos sí la cantidad de numeros ingresados es igual a la solicitada, caso contrario se repetira el proceso.
 
 		 }while ( rj_x< rj_a);
 
