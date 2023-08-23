@@ -1,0 +1,44 @@
+\documentclass[11pt]{article}
+
+\usepackage{sectsty}
+\usepackage{graphicx}
+
+\title{Sistema de Gestión de datos personales}
+\author{Ruano Jharol, Ruano Joseph, Ramirez Niurka, Galarza Ada}
+\date{\today}
+
+
+\begin{document}
+\maketitle
+\section{Introduccion}
+
+Parrafo 1: En la era digital en la que nos encontramos inmersos, la gestión de datos personales se ha convertido en un aspecto esencial de nuestras vidas. Cada vez más, nuestras interacciones cotidianas generan una gran cantidad de información que es capturada, almacenada y utilizada para una variedad de propósitos.
+
+Parrafo 2: En este contexto, las bases de datos juegan un papel fundamental al proporcionar un medio eficiente y organizado para almacenar, acceder y gestionar estos datos personales de manera segura. La gestión adecuada de datos personales basada en bases de datos no solo implica su almacenamiento, sino también la protección de la privacidad, el cumplimiento de regulaciones y la garantía de que los datos se utilicen de manera ética y beneficiosa. 
+
+Parrafo 3: Los ficheros de datos personales, las cuentas de clientes en línea, las redes sociales, la navegación, las transacciones relativas a compras online, entre otras fuentes, permiten a las empresas trabajar de forma integrada con información desestructurada muy valiosa para llegar a un comprender el comportamiento y las preferencias de sus clientes.
+
+Parrafo 4: La gestión de datos personales se ha convertido en una suerte de proceso estratégico que, de forma simultánea, pone sobre la mesa la cuestión de la seguridad de la información, teniendo en cuenta que son datos sensibles. No sólo hay que protegerlos con el fin de cumplir con la normativa de protección de datos de carácter personal, sino también para no traicionar la confianza que el cliente ha depositado en la empresa facilitándolos.
+
+
+
+\section{Objetivo General}
+Desarrollar e implementar un sistema de gestión de datos personales basado en una sólida estructura de base de datos, con el fin de garantizar la privacidad, seguridad y cumplimiento normativo en el manejo de la información de los usuarios, fomentando así la confianza en la organización y optimizando la toma de decisiones a través de un acceso eficiente y controlado a los datos.
+
+\section{Objetivos Especificos}
+\begin{enumerate}
+
+\item Analizar desde donde, como y de que medios se puede acceder a la información almacenada, pues las consecuencias de un mal uso podrían ser desastrosas para la competitividad, las ventas y la reputación de las empresas.
+
+\item Contrastar que la metodología para recopilar dicha información cumpla con las leyes y regulaciones de privacidad aplicables, como el Reglamento General de Protección de Datos (GDPR) en la Unión Europea o la Ley de Privacidad del Consumidor de California (CCPA) en Estados Unidos.
+
+\item Realizar auditorías periódicas para evaluar la conformidad con las políticas de privacidad y la efectividad de las medidas de seguridad implementadas.
+
+\item Obtener el consentimiento explícito y claro de los individuos antes de recopilar, procesar o almacenar sus datos personales. Proporcionar información detallada sobre cómo se utilizarán esos datos.
+
+
+
+\end{enumerate}
+
+
+\end{document}
